@@ -13,7 +13,7 @@ Módulo EAQatar: Módulo com os métodos implementados para resolver o problema 
 
 #Notas: 
 Os nossos resultados não são ótimos globais quando corremos o algoritmo um número de vezes suficientemente alto. 
-Um resultado na ordem dos 15000 é obtido como um ótimo local. 
-Tentámos quebrar este ponto de convergência com um método de seleção dos pais diferente a partir de um determinado threshold o que não resultou.
-Num futuro trabalho deveria ser considerado aumentar a taxa de mutação por iteração, bem como mutações mais eficientes, ou implementar métodos de seleção diferentes, por exemplo o torneio.
+Um resultado na ordem dos 12000 é obtido como um ótimo local. 
+Tentámos quebrar este ponto de convergência com um método de combinação dos filhos diferente a partir de um determinado threshold o que resulta moderadamente.
+Num futuro trabalho deveria ser considerado aumentar a taxa de mutação por iteração, bem como mutações mais eficientes, ou implementar métodos de seleção diferentes, por exemplo o torneio, para selecionar os pais.
 
