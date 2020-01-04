@@ -1,9 +1,12 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec  2 15:51:29 2019
-
-@author: Asus
-"""
+#####################################################
+# Sistemas Inteligentes em Bioinformática 2019/2020 #
+# Traveller salesman problem solver                 #
+# Authors                                           #
+# - Bruno Pereira                                   #
+# - David Santos                                    #
+# - Mário Varela                                    #
+# - Rui Pires                                       #
+#####################################################
 from EvolAlgorithm import EvolAlgorithm
 from Popul import  PopulPermut
 from math import sqrt as sq
