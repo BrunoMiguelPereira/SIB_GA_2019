@@ -1,4 +1,12 @@
-# -*- coding: utf-8 -*-
+#####################################################
+# Sistemas Inteligentes em Bioinformática 2019/2020 #
+# Traveller salesman problem solver                 #
+# Authors                                           #
+# - Bruno Pereira                                   #
+# - David Santos                                    #
+# - Mário Varela                                    #
+# - Rui Pires                                       #
+#####################################################
 
 from random import randint, random, shuffle, choice
 import numpy as np
