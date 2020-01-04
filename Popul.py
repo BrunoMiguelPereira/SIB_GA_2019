@@ -1,4 +1,12 @@
-# -*- coding: utf-8 -*-
+#####################################################
+# Sistemas Inteligentes em Bioinformática 2019/2020 #
+# Traveller salesman problem solver                 #
+# Authors                                           #
+# - Bruno Pereira                                   #
+# - David Santos                                    #
+# - Mário Varela                                    #
+# - Rui Pires                                       #
+#####################################################
 
 from Indiv import Indiv, IndivPermut
 from random import random, uniform
